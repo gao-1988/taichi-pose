@@ -169,6 +169,7 @@ def draw_weights(img,body_parts):
                  body_parts['right_elbow'])
 
 
+
 def get_body_parts(xy):
     # 17个点
     # 前5个: 脸部(1(鼻子),2(右眼睛),3(左眼睛),4(右耳朵),5(左耳朵))
